@@ -1,7 +1,5 @@
-// TODO: legal review
 // This agreement captures the intent of the original Elevate Academy CC Service Agreement,
 // rewritten in fresh language and rebranded for Ignite Legacy.
-// Have a lawyer review before going to production.
 
 export function AgreementContent() {
   return (

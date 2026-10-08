@@ -63,7 +63,7 @@ Three tabs:
 
 ## ⚖️ Important legal note
 
-The Clarity Coach Service Agreement shown in the hire modal is a **fresh paraphrase** of standard terms for this kind of service, rebranded to Ignite Legacy. **It should be reviewed by a lawyer before going live.** Look for the `// TODO: legal review` marker in `lib/agreement.tsx`.
+The Clarity Coach Service Agreement shown in the hire modal is a **fresh paraphrase** of standard terms for this kind of service, rebranded to Ignite Legacy. **It should be reviewed by a lawyer before going live.**
 
 ---
 
